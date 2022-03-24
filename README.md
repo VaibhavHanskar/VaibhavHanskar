@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VaibhavHanskar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science certification course
-- 💞️ I’m looking to collaborate on Companies 
+- 🌱 I’m currently Practicing Data Sets om Kaggle
+- 💞️ I’m looking for DataScientist role 
 - 📫 How to reach me ...
 
 <!---
