@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaibhavHanskar
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently Practicing Data Sets om Kaggle
+- 🌱 I’m currently Practicing Data Sets on Kaggle Platform
 - 💞️ I’m looking for DataScientist role 
 - 📫 How to reach me ...
 
